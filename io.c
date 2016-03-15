@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "io.h"
 
+
+
+
 size_t get_ints(int a[], size_t n) {
   size_t  i;
 
